@@ -29,8 +29,6 @@
 
 ## Languages
 
-### REPOS
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githukelvin&layout=compact)](https://github.com/githukelvin/github-readme-stats)
 
 
