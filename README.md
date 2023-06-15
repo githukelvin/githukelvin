@@ -15,6 +15,8 @@
 - Laravel
 - PHP
 - Shell Scripting
+- VUE.JS
+- ASTRO
 
 
 
@@ -25,4 +27,7 @@
 
 ## Languages
 
+### REPOS
+[![Repos Badge](https://badges.pufler.dev/repos/githukelvin)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/githukelvin/badge-it)](https://badges.pufler.dev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githukelvin&layout=compact)](https://github.com/githukelvin/github-readme-stats)
