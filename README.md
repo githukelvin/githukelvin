@@ -1,5 +1,7 @@
 #  **githukelvin profile**
-
+[![Repos Badge](https://badges.pufler.dev/repos/githukelvin)]()
+[![Visits Badge](https://badges.pufler.dev/visits/githukelvin/badge-it)]()
+[![Years Badge](https://badges.pufler.dev/years/githukelvin)]()
 - 👋 Hi, I’m <mark>**Githu Kelvin**</mark>
 - 👀 I’m interested in <mark>Web Programming</mark> and Software Engineering.
 - 🌱 I’m currently learning the `Laravel` and `Vue.js` framework with `Typescript`.
@@ -32,6 +34,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githukelvin&layout=compact)](https://github.com/githukelvin/github-readme-stats)
 
 
-[Repos Badge](https://badges.pufler.dev/repos/githukelvin)
-[Visits Badge](https://badges.pufler.dev/visits/githukelvin/badge-it)
-[Years Badge](https://badges.pufler.dev/years/githukelvin)
+
