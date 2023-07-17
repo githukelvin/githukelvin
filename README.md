@@ -1,5 +1,9 @@
 # **githukelvin profile**
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Open+sans&pause=1000&color=1149F7&background=FF8B9400&width=435&lines=Frontend+%26+Backend+Developer;Intermediate+Web+scraper;2%2B+Years+of+experience;Always+Learning+new+Things;Interested+in+Network+hacking">
+</p>
+
 [![Repos Badge](https://badges.pufler.dev/repos/githukelvin)]()
 [![Visits Badge](https://badges.pufler.dev/visits/githukelvin/badge-it)]()
 [![Years Badge](https://badges.pufler.dev/years/githukelvin)]()
@@ -38,20 +42,80 @@
   />
 
 </p>
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=githukelvin"
       alt="githukelvin"
   /></a>
 </p>
-<br />
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=githukelvin&show_icons=true&theme=gotham"
     alt="githukelvin"
   />
 </p>
+<details open>
+  <summary><h2>📕 Top Projects I've Done and continue doing</h2></summary>
+
+  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+  <p align="left">
+    <a href="https://github.com/githukelvin/python-Webscraping"
+      ><img
+        width="278"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=githukelvin&repo=python-Webscraping&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
+        alt="web scraping"
+    /></a>
+    <a href="https://github.com/githukelvin/Space-tourism"
+      ><img
+        width="278"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=githukelvin&repo=Space-tourism&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
+        alt="Space-tourism"
+    /></a>
+    <a href="https://github.com/githukelvin/todo-app"
+      ><img
+        width="278"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=githukelvin&repo=todo-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
+        alt="todo-app"
+    /></a>
+    <a href="https://github.com/githukelvin/forgot_password"
+      ><img
+        width="278"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=githukelvin&repo=forgot_password&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
+        alt="forgot_password"
+    /></a>
+    <a href="https://github.com/githukelvin/easybank-landing"
+      ><img
+        width="278"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=githukelvin&repo=easybank-landing&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
+        alt="easybank-landing"
+    /></a>
+    <a href="https://github.com/githukelvin/Attedance-system"
+      ><img
+        width="278"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=githukelvin&repo=Attedance-system&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
+        alt="Attedance"
+    /></a>
+    <a href="https://github.com/githukelvin/rest-countries"
+      ><img
+        width="278"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=githukelvin&repo=rest-countries&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
+        alt="rest-countriese"
+    /></a>
+       <a href="https://github.com/githukelvin/Insure-landing-page"
+      ><img
+        width="278"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=githukelvin&repo=Insure-landing-page&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
+        alt="Insure-landing-page"
+    /></a>
+     <a href="https://github.com/githukelvin/crowdfunding"
+      ><img
+        width="278"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=githukelvin&repo=crowdfunding&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
+        alt="crowdfunding"
+    /></a>
+  </p>
+</details>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
