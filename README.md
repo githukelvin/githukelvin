@@ -10,10 +10,10 @@
 
 - 👋 Hi, I’m <mark>**Githu Kelvin**</mark>
 - 👀 I’m interested in <mark>Web Programming</mark> and Software Engineering.
-- 🌱 I’m currently learning the `Laravel` and `Vue.js frameworks with`Typescript`.
-- 💞️ I’m looking to collaborate on `Laravel` and `PHP` for the backend as well as `VUE.js development projects for the front-end.
+- 🌱 I’m currently learning the `Laravel` and `Vue.js frameworks with typescript.
+- 💞️ I’m looking to collaborate on `Laravel` and `PHP` for the backend as well as `VUE.js development projects for the front end.
 - 📫 Reach me by <!--[Mobile No](0758206444) or text via--> [Email](kelvingithu019@gmail.com).
-- 💥 I'm Proficient in `HTML/CSS` , `JavaScript`, `SCSS`, `PHP`
+- 💥 I'm Proficient in `HTML/CSS`, `JavaScript`, `SCSS`, `PHP`
 
 ## Specialization
 
@@ -58,7 +58,7 @@
 <details open>
   <summary><h2>📕 Top Projects I've Done and continue doing</h2></summary>
 
-  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/GitHub-readme-stats) -->
   <p align="left">
     <a href="https://github.com/githukelvin/python-Webscraping"
       ><img
@@ -88,19 +88,19 @@
       ><img
         width="278"
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=githukelvin&repo=easybank-landing&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
-        alt="easybank-landing"
+        alt="easy bank-landing"
     /></a>
     <a href="https://github.com/githukelvin/Attedance-system"
       ><img
         width="278"
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=githukelvin&repo=Attedance-system&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
-        alt="Attedance"
+        alt="Attendance"
     /></a>
     <a href="https://github.com/githukelvin/rest-countries"
       ><img
         width="278"
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=githukelvin&repo=rest-countries&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
-        alt="rest-countriese"
+        alt="rest-countries"
     /></a>
        <a href="https://github.com/githukelvin/Insure-landing-page"
       ><img
