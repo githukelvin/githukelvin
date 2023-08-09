@@ -5,7 +5,6 @@
 </p>
 
 [![Repos Badge](https://badges.pufler.dev/repos/githukelvin)]()
-[![Visits Badge](https://badges.pufler.dev/visits/githukelvin/badge-it)]()
 [![Years Badge](https://badges.pufler.dev/years/githukelvin)]()
 
 - 👋 Hi, I’m <mark>**Githu Kelvin**</mark>
