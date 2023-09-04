@@ -24,6 +24,7 @@
 - Shell Scripting
 - VUE.JS
 - ASTRO
+- TYPESCRIPT
 
 <h2><i>My GitHub Stats</i></h2>
 
@@ -39,22 +40,18 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=githukelvin&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true"
     alt="githukelvin"
   />
+<img width="50%"  align="left"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=@creator254&layout=compact&theme=tokyonight" alt="githukelvin"/>
+</p>
 
-</p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=githukelvin"
-      alt="githukelvin"
-  /></a>
-</p>
 <p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=githukelvin&show_icons=true&theme=gotham"
     alt="githukelvin"
   />
 </p>
-<details open>
+<br><br>
+<details align="left" open>
   <summary><h2>📕 Top Projects I've Done and continue doing</h2></summary>
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/GitHub-readme-stats) -->
