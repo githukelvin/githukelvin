@@ -6,6 +6,7 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/githukelvin)]()
 [![Years Badge](https://badges.pufler.dev/years/githukelvin)]()
+[![](https://visitcount.itsvg.in/api?id=githukelvin&label=Profile%20Views&pretty=false)](https://githukelvin.tech)
 
 - 👋 Hi, I’m <mark>**Githu Kelvin**</mark>
 - 👀 I’m interested in <mark>Web Programming</mark> and Software Engineering.
