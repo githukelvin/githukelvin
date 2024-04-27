@@ -4,8 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Open+sans&pause=1000&color=1149F7&background=FF8B9400&width=435&lines=Frontend+%26+Backend+Developer;Intermediate+Web+scraper;2%2B+Years+of+experience;Always+Learning+new+Things;Interested+in+Network+hacking">
 </p>
 
-[![Repos Badge](https://badges.pufler.dev/repos/githukelvin)]()
-[![Years Badge](https://badges.pufler.dev/years/githukelvin)]()
+
 [![](https://visitcount.itsvg.in/api?id=githukelvin&label=Profile%20Views&pretty=false)](https://githukelvin.tech)
 
 - 👋 Hi, I’m <mark>**Githu Kelvin**</mark>
