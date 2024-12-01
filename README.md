@@ -51,6 +51,10 @@
   />
 </p>
 <br><br>
+
+<p><img src="https://wakatime.com/share/@creator254/63909aa3-cee7-41de-8b63-287dad00f7ba.svg"/></p>
+<br><br>
+
 <details align="left" open>
   <summary><h2>📕 Top Projects I've Done and continue doing</h2></summary>
 
